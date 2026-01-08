@@ -15,7 +15,7 @@
                 "--nolazy"
             ],
             "env": {
-                "NODE_ENV": "development" (Hello world)
+                "NODE_ENV": "development"
             },
             "console": "internalConsole",
             "sourceMaps": false,
